@@ -1,3 +1,5 @@
+# Power Menu Software Power button for Android, Fire OS.
+
 **Report Issues, Bugs, Feature Suggestion in github issues section [here](https://github.com/visnkmr/powermenu/issues)**
 
 [![Get it on Google Play](https://play.google.com/intl/en_us/badges/images/badge_new.png)](https://play.google.com/store/apps/details?id=io.github.visnkmr.powermenu)  

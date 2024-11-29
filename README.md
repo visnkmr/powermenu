@@ -1,4 +1,5 @@
 # Power Menu Software Power button for Android, Fire OS.
+[![Github All Releases](https://img.shields.io/github/downloads/visnkmr/powermenu/total.svg)]()  
 
 **Report Issues, Bugs, Feature Suggestion in github issues section [here](https://github.com/visnkmr/powermenu/issues)**
 
